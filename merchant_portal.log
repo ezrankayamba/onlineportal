@@ -1,0 +1,28 @@
+
+16-10-29 06:29:22: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/\/redirect.php","callbackUri":"http:\/\/\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"57"}
+16-10-29 06:29:24: 
+           	{
+			    "transactionRefId": "57",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=oGccp7hAna&transaction_ref_id=57&lang=eng",  
+				"authCode": "oGccp7hAna",
+				"creationDateTime": "Sat, 29 Oct 2016 03:29:23 UTC"
+			}
+       
+16-10-29 06:39:54: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"58"}
+16-10-29 06:39:55: 
+           	{
+			    "transactionRefId": "58",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=N7hOK6fell&transaction_ref_id=58&lang=eng",  
+				"authCode": "N7hOK6fell",
+				"creationDateTime": "Sat, 29 Oct 2016 03:39:54 UTC"
+			}
+       
+16-10-29 06:51:06: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"59"}
+16-10-29 06:51:07: 
+           	{
+			    "transactionRefId": "59",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=wijj06gSj6&transaction_ref_id=59&lang=eng",  
+				"authCode": "wijj06gSj6",
+				"creationDateTime": "Sat, 29 Oct 2016 03:51:07 UTC"
+			}
+       

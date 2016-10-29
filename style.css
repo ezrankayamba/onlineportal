@@ -1,0 +1,57 @@
+html, body, table{
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+table.mainlayout{
+	width: 100%;
+	height: 100%;
+}
+
+table.mainlayout > tbody > tr > td {
+	border: 1px solid silver;
+	vertical-align: top;
+}
+table.mainlayout > tbody > tr > td:first-child,
+table.mainlayout > tbody > tr > td:last-child {
+	width: 20%;
+	
+}
+table.mainlayout > tbody > tr:first-child ,
+table.mainlayout > tbody > tr:last-child {
+	height: 10%;
+	vertical-align: middle;
+}
+table.mainlayout > tbody > tr:first-child  > td,
+table.mainlayout > tbody > tr:last-child > td{
+	vertical-align: middle;
+}
+
+input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+  margin-bottom: 28px;
+}
+div.radioline{
+	margin-top: 3px;
+	width: 200px;
+}
+div.radiogroup > div.radioline:last-child{
+	margin-bottom: 3px;
+}
+div.radioline > label{
+}
+div.radioline > label > img {
+	height: 40px;
+	width: 100px;
+	display: inline;
+}
+
+button.cmd{
+	margin-left: 20px;
+}

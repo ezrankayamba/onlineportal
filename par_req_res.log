@@ -1,0 +1,178 @@
+
+16-10-28 15:26:02: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":251}
+16-10-28 15:27:47: 
+16-10-28 15:34:20: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":253}
+16-10-28 15:42:04: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"\"254\""}
+16-10-28 15:42:45: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"255"}
+16-10-28 16:13:22: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"256"}
+16-10-28 17:00:59: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"257"}
+16-10-28 17:12:39: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"258"}
+16-10-28 17:21:22: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost:8080\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"259"}
+16-10-28 18:22:36: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"260"}
+16-10-28 18:25:34: array (
+  'trans_status' => 'success',
+  'transaction_ref_id' => '260',
+  'external_ref_id' => 'null',
+  'mfs_id' => '81484094',
+  'verification_code' => '0GcKqxAaurSjiWGtcfpfZuq7tx3o',
+  'lang' => 'eng',
+)
+16-10-28 18:28:57: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"261"}
+16-10-28 18:28:57: 
+           	{
+			    "transactionRefId": "261",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=5AbSi4chrq&transaction_ref_id=261&lang=eng",  
+				"authCode": "5AbSi4chrq",
+				"creationDateTime": "Fri, 28 Oct 2016 14:28:57 UTC"
+			}
+       
+16-10-28 18:31:22: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"262"}
+16-10-28 18:31:23: 
+           	{
+			    "transactionRefId": "262",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=eppzqLZadP&transaction_ref_id=262&lang=eng",  
+				"authCode": "eppzqLZadP",
+				"creationDateTime": "Fri, 28 Oct 2016 14:31:22 UTC"
+			}
+       
+16-10-28 18:31:50: array (
+  'trans_status' => 'success',
+  'transaction_ref_id' => '262',
+  'external_ref_id' => 'null',
+  'mfs_id' => '93432785',
+  'verification_code' => 'CzQCaWU8ysp7rrn4LlolqkK6J6hG',
+  'lang' => 'eng',
+)
+16-10-28 18:36:13: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"263"}
+16-10-28 18:36:14: 
+           	{
+			    "transactionRefId": "263",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=i7A8i8HTpH&transaction_ref_id=263&lang=eng",  
+				"authCode": "i7A8i8HTpH",
+				"creationDateTime": "Fri, 28 Oct 2016 14:36:14 UTC"
+			}
+       
+16-10-28 18:36:52: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"264"}
+16-10-28 18:36:53: 
+           	{
+			    "transactionRefId": "264",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=OfBgG01rjK&transaction_ref_id=264&lang=eng",  
+				"authCode": "OfBgG01rjK",
+				"creationDateTime": "Fri, 28 Oct 2016 14:36:53 UTC"
+			}
+       
+16-10-28 18:37:21: array (
+  'trans_status' => 'success',
+  'transaction_ref_id' => '264',
+  'external_ref_id' => 'null',
+  'mfs_id' => '18923796',
+  'verification_code' => 'fEb02GqJGhJyqewzWNkPODspdOxY',
+  'lang' => 'eng',
+)
+16-10-28 18:38:43: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"265"}
+16-10-28 18:38:44: 
+           	{
+			    "transactionRefId": "265",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=ZZz370D2Pc&transaction_ref_id=265&lang=eng",  
+				"authCode": "ZZz370D2Pc",
+				"creationDateTime": "Fri, 28 Oct 2016 14:38:43 UTC"
+			}
+       
+16-10-28 18:39:14: array (
+  'trans_status' => 'success',
+  'transaction_ref_id' => '265',
+  'external_ref_id' => 'null',
+  'mfs_id' => '32047297',
+  'verification_code' => 'CQbEe2H7x3ijztzLzEa0LIMdmBGk',
+  'lang' => 'eng',
+)
+16-10-28 18:47:20: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"266"}
+16-10-28 18:47:21: 
+           	{
+			    "transactionRefId": "266",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=LnY8uIXoET&transaction_ref_id=266&lang=eng",  
+				"authCode": "LnY8uIXoET",
+				"creationDateTime": "Fri, 28 Oct 2016 14:47:21 UTC"
+			}
+       
+16-10-28 18:47:50: array (
+  'trans_status' => 'success',
+  'transaction_ref_id' => '266',
+  'external_ref_id' => 'null',
+  'mfs_id' => '82227418',
+  'verification_code' => 'uD62mcnIZcxGyp6Cyp2qmTosROuN',
+  'lang' => 'eng',
+)
+16-10-28 18:57:28: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"267"}
+16-10-28 18:57:29: 
+           	{
+			    "transactionRefId": "267",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=gOopqmCasp&transaction_ref_id=267&lang=eng",  
+				"authCode": "gOopqmCasp",
+				"creationDateTime": "Fri, 28 Oct 2016 14:57:28 UTC"
+			}
+       
+16-10-28 18:58:01: array (
+  'trans_status' => 'fail',
+  'transaction_ref_id' => '267',
+  'error_code' => 'Purchase-3008-3043-E',
+)
+16-10-28 22:29:27: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost:8080\/merchant\/demo\/redirect.php","callbackUri":"https:\/\/50a9ba35.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"53"}
+16-10-28 22:29:28: 
+           	{
+			    "transactionRefId": "53",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=WFR4upEl0Q&transaction_ref_id=53&lang=eng",  
+				"authCode": "WFR4upEl0Q",
+				"creationDateTime": "Fri, 28 Oct 2016 19:29:28 UTC"
+			}
+       
+16-10-28 22:48:49: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/localhost\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/localhost\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"54"}
+16-10-28 22:48:51: 
+           	{
+			    "transactionRefId": "54",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=gplXncu8Ot&transaction_ref_id=54&lang=eng",  
+				"authCode": "gplXncu8Ot",
+				"creationDateTime": "Fri, 28 Oct 2016 19:48:50 UTC"
+			}
+       
+16-10-28 22:56:46: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"400","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"400","currencyCode":"TZS"},"transactionRefId":"55"}
+16-10-28 22:56:48: 
+           	{
+			    "transactionRefId": "55",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=run0fb8MO7&transaction_ref_id=55&lang=eng",  
+				"authCode": "run0fb8MO7",
+				"creationDateTime": "Fri, 28 Oct 2016 19:56:48 UTC"
+			}
+       
+16-10-28 22:57:27: array (
+  'trans_status' => 'fail',
+  'transaction_ref_id' => '55',
+  'error_code' => 'Purchase-3008-3043-E',
+)
+16-10-28 22:58:42: {"MasterMerchant":{"account":"255719803144","pin":"1620","id":"Kazini Group"},"Subscriber":{"account":"","countryCode":"255","country":"TZA"},"redirectUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/redirect.php","callbackUri":"http:\/\/6cd30fd0.ngrok.io\/merchant\/demo\/APIGeeCallback.php","language":"eng","originPayment":{"amount":"1000","currencyCode":"TZS","tax":"0.00","fee":"0.00"},"exchangeRate":"1","LocalPayment":{"amount":"1000","currencyCode":"TZS"},"transactionRefId":"56"}
+16-10-28 22:58:44: 
+           	{
+			    "transactionRefId": "56",
+				"redirectUrl": "https://securesandbox.tigo.com/v1/tigo/payment-auth/transactions?auth_code=ih9p5i7CkS&transaction_ref_id=56&lang=eng",  
+				"authCode": "ih9p5i7CkS",
+				"creationDateTime": "Fri, 28 Oct 2016 19:58:44 UTC"
+			}
+       
+16-10-28 22:59:20: array (
+  'trans_status' => 'success',
+  'transaction_ref_id' => '56',
+  'external_ref_id' => 'null',
+  'mfs_id' => '61484004',
+  'verification_code' => 'ScCx8KvAYIalSP2ay6o1f1LwpDHr',
+  'lang' => 'eng',
+)
+16-10-29 06:40:36: array (
+  'trans_status' => 'fail',
+  'transaction_ref_id' => '58',
+  'error_code' => 'Purchase-3008-3043-E',
+)
+16-10-29 06:51:49: array (
+  'trans_status' => 'fail',
+  'transaction_ref_id' => '59',
+  'error_code' => 'Purchase-3008-3043-E',
+)
